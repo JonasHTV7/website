@@ -40,7 +40,31 @@
 		<font face="Lato">
 				<h1>SkandiServers</h1>
 				<p>I do different System Administration and development tasks for SkandiServers.
-				<br><a href="https://skandiservers.net/" class="links">Visit website.</a></p>
+				<br><a target="_blank" href="https://skandiservers.net/" class="links">Visit website.</a></p>
+		</font>
+	</div>
+
+	<div class="projects" id="NodeShooter">
+		<font face="Lato">
+				<h1>NodeShooter</h1>
+				<p>Not-yet-released game made in python and pygame.
+				<br><a target="_blank" href="https://nodeshooter.com/" class="links">Visit website.</a></p>
+		</font>
+	</div>
+
+	<div class="projects" id="website">
+		<font face="Lato">
+				<h1>This website</h1>
+				<p>You can view the source code of this website on GitHub.
+				<br><a target="_blank" href="https://github.com/MrKaKisen/website" class="links">Visit GitHub.</a></p>
+		</font>
+	</div>
+
+	<div class="projects" id="website">
+		<font face="Lato">
+				<h1>And a lot more..</h1>
+				<p>All repositories are available on GitHub.
+				<br><a target="_blank" href="https://github.com/MrKaKisen" class="links">Visit GitHub.</a></p>
 		</font>
 	</div>
 
