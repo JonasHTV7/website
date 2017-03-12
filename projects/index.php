@@ -24,11 +24,23 @@
 	<div class="bigPictueBox">
 		<img src="https://mrkakisen.se/assets/img/mountain3-small.png" class="bigPicture">
 	</div>
-	<div class="welcome-about" id="introduction">
+	<div class="project-info" id="introduction">
 		<font face="Lato">
 			<h1>Projects</h1>
 			<p>Here are a list of some of the projects that I've been working on / currently working on.</p>
       <p><a href="https://mrkakisen.se/" class="links">Return to homepage.</a></p>
+		</font>
+	</div>
+
+	<div class="opactiyHalf">
+		<tr><th colspan="5"><hr></th></tr>
+	</div>
+
+	<div class="projects" id="SkandiServers">
+		<font face="Lato">
+				<h1>SkandiServers</h1>
+				<p>I do different System Administration and development tasks for SkandiServers.
+				<br><a href="https://skandiservers.net/" class="links">Visit website.</a></p>
 		</font>
 	</div>
 
