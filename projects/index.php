@@ -8,21 +8,21 @@
       Version: 1.3
 	-->
 
-	<link rel="icon" href="./assets/img/round-32x32.png" sizes="32x32" />
-	<link rel="icon" href="./assets/img/round-192x192.png" sizes="192x192" />
-	<link rel="apple-touch-icon-precomposed" href="./assets/img/round-180x180.pn" />
+	<link rel="icon" href="https://mrkakisen.se/assets/img/round-32x32.png" sizes="32x32" />
+	<link rel="icon" href="https://mrkakisen.se/assets/img/round-192x192.png" sizes="192x192" />
+	<link rel="apple-touch-icon-precomposed" href="https://mrkakisen.se/assets/img/round-180x180.pn" />
 
 	<meta charset="UTF-8">
 	<meta name="description" content="Personal page for Vilhelm Prytz (MrKaKisen)">
 	<meta name="keywords" content="MrKaKisen,MrKaKisen.se,Vilhelm Prytz,Prytz Vilhelm">
 
-  <link href="./assets/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="./assets/css/goodies.css" rel="stylesheet" type="text/css" />
+  <link href="https://mrkakisen.se/assets/css/main.css" rel="stylesheet" type="text/css" />
+  <link href="https://mrkakisen.se/assets/css/goodies.css" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 </head>
 <body backgroun="#FFFFF" class="body">
 	<div class="bigPictueBox">
-		<img src="./assets/img/mountain3-small.png" class="bigPicture">
+		<img src="https://mrkakisen.se/assets/img/mountain3-small.png" class="bigPicture">
 	</div>
 	<div class="welcome-about" id="introduction">
 		<font face="Lato">
