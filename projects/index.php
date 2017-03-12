@@ -28,7 +28,7 @@
 		<font face="Lato">
 			<h1>Projects</h1>
 			<p>Here are a list of some of the projects that I've been working on / currently working on.</p>
-      <p><a href="index.php#system-administration" class="links">Return to homepage.</a></p>
+      <p><a href="https://mrkakisen.se/" class="links">Return to homepage.</a></p>
 		</font>
 	</div>
 
