@@ -2,23 +2,18 @@
 <html>
 <head>
 	<title>MrKaKisen</title>
-
-	<!-- Website made by Vilhelm Prytz.
+	<!-- Website made by Vilhelm Prytz and "JonasHTV7".
 			(c) Copyright Vilhelm Prytz 2017
-			Version: 1.3
-	-->
-
-	<link rel="icon" href="./assets/img/round-32x32.png" sizes="32x32" />
-	<link rel="icon" href="./assets/img/round-192x192.png" sizes="192x192" />
-	<link rel="apple-touch-icon-precomposed" href="./assets/img/round-180x180.pn" />
-
+			Version: 1.3 -->
+	<link rel="icon" href="./assets/img/round-32x32.png" sizes="32x32">
+	<link rel="icon" href="./assets/img/round-192x192.png" sizes="192x192">
+	<link rel="apple-touch-icon-precomposed" href="./assets/img/round-180x180.png">
 	<meta charset="UTF-8">
 	<meta name="description" content="Personal page for Vilhelm Prytz (MrKaKisen)">
 	<meta name="keywords" content="MrKaKisen,MrKaKisen.se,Vilhelm Prytz,Prytz Vilhelm">
-
-	<link href="./assets/css/main.css" rel="stylesheet" type="text/css" />
-	<link rel="stylesheet" media="screen and (min-width: 1px) and (max-width: 1120px)" href="./assets/css/mobile.css" />
-	<link href="./assets/css/goodies.css" rel="stylesheet" type="text/css" />
+	<link href="./assets/css/main.css" rel="stylesheet" type="text/css">
+	<link rel="stylesheet" media="screen and (min-width: 1px) and (max-width: 1120px)" href="./assets/css/mobile.css">
+	<link href="./assets/css/goodies.css" rel="stylesheet" type="text/css">
 	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 </head>
 <body backgroun="#FFFFF" class="body">
@@ -33,7 +28,6 @@
 			<img src="./assets/img/round-180x180.png" height="150" width="150" class="fade">
 		</font>
 	</div>
-
 	<div class="welcome-about" id="projects">
 		<font face="Lato">
 			<h1>Projects</h1>
@@ -41,7 +35,6 @@
 			<br>on over at <a href="https://projects.mrkakisen.net" class="links">projects.mrkakisen.net</a>.</p>
 		</font>
 	</div>
-
 	<div class="welcome-about floatRight" id="about-me">
 		<font face="Lato">
 			<h1>About Me</h1>
@@ -53,17 +46,14 @@
 			<br>I'm also very familiar with Debian and Ubuntu (aswell as other distros).
 		</font>
 	</div>
-
 	<div class="opactiyHalf">
 		<tr><th colspan="5"><hr></th></tr>
 	</div>
-
 	<center>
 		<font face="Lato">
 			<h1 class="invisible">Services</h1>
 		</font>
 	</center>
-
 	<div class="services" id="dns-service">
 		<font face="Lato">
 			<h1>MrKaKisen DNS</h1>
@@ -74,7 +64,6 @@
 			<br><a href="https://dns.mrkakisen.net/" class="links">Read more here.</a></p>
 		</font>
 	</div>
-
 	<div class="services" id="system-administration">
 		<font face="Lato">
 			<h1>System Administration</h1>
@@ -86,7 +75,6 @@
 			<br><a href="contact.php" class="links">Contact me for a quote.</a></p>
 		</font>
 	</div>
-
 	<div class="services" id="managed-web">
 		<font face="Lato">
 			<h1>Managed Web Hosting</h1>
@@ -96,11 +84,9 @@
 
 		</font>
 	</div>
-
 	<div class="opactiyHalf">
 		<tr><th colspan="5"><hr></th></tr>
 	</div>
-
 	<div class="footer opactiyHalf" id="footer">
 		<font face="Lato" color="black">
 			<p>© Vilhelm Prytz <?php echo date("Y"); ?>
@@ -111,7 +97,6 @@
 			<br><a href="mailto:contact@mrkakisen.net" class="links2" id="email">contact(at)mrkakisen.net</a></p>
 		</font>
 	</div>
-
 	<div class="footer opactiyHalf" id="footerRight">
 		<font face="Lato" color="black">
 			<p>Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
