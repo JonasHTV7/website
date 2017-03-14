@@ -2,20 +2,16 @@
 <html>
 <head>
 	<title>MrKaKisen - Contact</title>
-
 	<!-- Website made by Vilhelm Prytz.
 			(c) Copyright Vilhelm Prytz 2017
       Version: 1.3
 	-->
-
 	<link rel="icon" href="./assets/img/round-32x32.png" sizes="32x32" />
 	<link rel="icon" href="./assets/img/round-192x192.png" sizes="192x192" />
 	<link rel="apple-touch-icon-precomposed" href="./assets/img/round-180x180.pn" />
-
 	<meta charset="UTF-8">
 	<meta name="description" content="Personal page for Vilhelm Prytz (MrKaKisen)">
 	<meta name="keywords" content="MrKaKisen,MrKaKisen.se,Vilhelm Prytz,Prytz Vilhelm">
-
   <link href="./assets/css/main.css" rel="stylesheet" type="text/css" />
   <link href="./assets/css/goodies.css" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
@@ -36,11 +32,9 @@
       <p><a href="index.php#system-administration" class="links">Return to homepage.</a></p>
 		</font>
 	</div>
-
 	<div class="opactiyHalf">
 		<tr><th colspan="5"><hr></th></tr>
 	</div>
-
 	<div class="footer opactiyHalf" id="footer">
 		<font face="Lato" color="black">
 			<p>© Vilhelm Prytz <?php echo date("Y"); ?> - Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
@@ -51,7 +45,6 @@
 			<br><a href="mailto:contact@mrkakisen.net" class="links2" id="email">contact(at)mrkakisen.net</a></p>
 		</font>
 	</div>
-	
 	<div class="footer opactiyHalf" id="footerRight">
 		<font face="Lato" color="black">
 			<p>Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
