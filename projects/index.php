@@ -2,20 +2,16 @@
 <html>
 <head>
 	<title>MrKaKisen - Projects</title>
-
 	<!-- Website made by Vilhelm Prytz.
 			(c) Copyright Vilhelm Prytz 2017
       Version: 1.3
 	-->
-
 	<link rel="icon" href="https://mrkakisen.se/assets/img/round-32x32.png" sizes="32x32" />
 	<link rel="icon" href="https://mrkakisen.se/assets/img/round-192x192.png" sizes="192x192" />
 	<link rel="apple-touch-icon-precomposed" href="https://mrkakisen.se/assets/img/round-180x180.pn" />
-
 	<meta charset="UTF-8">
 	<meta name="description" content="Personal page for Vilhelm Prytz (MrKaKisen)">
 	<meta name="keywords" content="MrKaKisen,MrKaKisen.se,Vilhelm Prytz,Prytz Vilhelm">
-
   <link href="https://mrkakisen.se/assets/css/main.css" rel="stylesheet" type="text/css" />
   <link href="https://mrkakisen.se/assets/css/goodies.css" rel="stylesheet" type="text/css" />
   <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
@@ -31,11 +27,9 @@
       <p><a href="https://mrkakisen.se/" class="links">Return to homepage.</a></p>
 		</font>
 	</div>
-
 	<div class="opactiyHalf">
 		<tr><th colspan="5"><hr></th></tr>
 	</div>
-
 	<div class="projects" id="SkandiServers">
 		<font face="Lato">
 				<h1>SkandiServers</h1>
@@ -43,7 +37,6 @@
 				<br><a target="_blank" href="https://skandiservers.net/" class="links">Visit website.</a></p>
 		</font>
 	</div>
-
 	<div class="projects" id="NodeShooter">
 		<font face="Lato">
 				<h1>NodeShooter</h1>
@@ -51,7 +44,6 @@
 				<br><a target="_blank" href="https://nodeshooter.com/" class="links">Visit website.</a></p>
 		</font>
 	</div>
-
 	<div class="projects" id="website">
 		<font face="Lato">
 				<h1>This website</h1>
@@ -59,7 +51,6 @@
 				<br><a target="_blank" href="https://github.com/MrKaKisen/website" class="links">Visit GitHub.</a></p>
 		</font>
 	</div>
-
 	<div class="projects" id="website">
 		<font face="Lato">
 				<h1>And a lot more..</h1>
@@ -67,11 +58,9 @@
 				<br><a target="_blank" href="https://github.com/MrKaKisen" class="links">Visit GitHub.</a></p>
 		</font>
 	</div>
-
 	<div class="opactiyHalf">
 		<tr><th colspan="5"><hr></th></tr>
 	</div>
-
 	<div class="footer opactiyHalf" id="footer">
 		<font face="Lato" color="black">
 			<p>© Vilhelm Prytz <?php echo date("Y"); ?> - Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
@@ -82,7 +71,6 @@
 			<br><a href="mailto:contact@mrkakisen.net" class="links2" id="email">contact(at)mrkakisen.net</a></p>
 		</font>
 	</div>
-
 	<div class="footer opactiyHalf" id="footerRight">
 		<font face="Lato" color="black">
 			<p>Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
