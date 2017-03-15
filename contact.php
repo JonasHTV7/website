@@ -2,54 +2,60 @@
 <html>
 <head>
 	<title>MrKaKisen - Contact</title>
-	<!-- Website made by Vilhelm Prytz.
+	<!-- Website made by Vilhelm Prytz and "JonasHTV7".
 			(c) Copyright Vilhelm Prytz 2017
       Version: 1.3
 	-->
-	<link rel="icon" href="./assets/img/round-32x32.png" sizes="32x32" />
-	<link rel="icon" href="./assets/img/round-192x192.png" sizes="192x192" />
-	<link rel="apple-touch-icon-precomposed" href="./assets/img/round-180x180.pn" />
+	<link rel="icon" href="./assets/img/round-32x32.png" sizes="32x32">
+	<link rel="icon" href="./assets/img/round-192x192.png" sizes="192x192">
+	<link rel="apple-touch-icon-precomposed" href="./assets/img/round-180x180.png">
 	<meta charset="UTF-8">
 	<meta name="description" content="Personal page for Vilhelm Prytz (MrKaKisen)">
 	<meta name="keywords" content="MrKaKisen,MrKaKisen.se,Vilhelm Prytz,Prytz Vilhelm">
-  <link href="./assets/css/main.css" rel="stylesheet" type="text/css" />
-  <link href="./assets/css/goodies.css" rel="stylesheet" type="text/css" />
-  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
+	<link href="./assets/css/main.css" rel="stylesheet" type="text/css">
+	<link href="./assets/css/goodies.css" rel="stylesheet" type="text/css">
+	<link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet">
 </head>
-<body backgroun="#FFFFF" class="body">
-	<div class="bigPictueBox">
-		<img src="./assets/img/mountain3-small.png" class="bigPicture">
+<body>
+	<div class="bigImgBox">
+		<img src="./assets/img/mountain3-small.png" class="bigImg">
+		<div class="bigImgPusher"></div>
 	</div>
-	<div class="welcome-about" id="introduction">
-		<font face="Lato">
-			<h1>Contact</h1>
-			<p>There are several ways of getting in touch with me, whenever you would like to have a quote,
-      <br>or just chat, feel free to contact me in any of the ways listed below!</p>
-      <p>Email - <a href="mailto:contact@mrkakisen.net" class="links">contact(at)mrkakisen.net</a>
-      <br>Discord - MrKaKisen#8523
-      <br>Skype - <a href="skype:mrkakisen?add" class="links">MrKaKisen</a> (not online often)</p>
-      <br>
-      <p><a href="index.php#system-administration" class="links">Return to homepage.</a></p>
-		</font>
-	</div>
-	<div class="opactiyHalf">
-		<tr><th colspan="5"><hr></th></tr>
-	</div>
-	<div class="footer opactiyHalf" id="footer">
-		<font face="Lato" color="black">
-			<p>© Vilhelm Prytz <?php echo date("Y"); ?> - Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
-			<br>
-			<br><a href="https://twitter.com/VilhelmPrytz" class="links2" id="twitter">Twitter</a>
-			<br><a href="https://github.com/MrKaKisen" class="links2" id="github">GitHub</a>
-			<br>Discord - MrKaKisen#8523
-			<br><a href="mailto:contact@mrkakisen.net" class="links2" id="email">contact(at)mrkakisen.net</a></p>
-		</font>
-	</div>
-	<div class="footer opactiyHalf" id="footerRight">
-		<font face="Lato" color="black">
-			<p>Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
-			<br><a href="https://status.mrkakisen.net" class="links2">Server Status Page</a></p>
-		</font>
+	<div class="content">
+		<section class="content-section" id="content-welcome">
+			<div class="welcome-about" id="introduction">
+			<font face="Lato">
+				<h1>Contact</h1>
+				<p>There are several ways of getting in touch with me, 
+				<br>whenever you would like to have a quote, or just chat, 
+				<br>feel free to contact me in any of the ways listed below!</p>
+				<p>Email - <a href="mailto:contact@mrkakisen.net" class="links">contact(at)mrkakisen.net</a>
+				<br>Discord - MrKaKisen#8523
+				<br>Skype - <a href="skype:mrkakisen?add" class="links">MrKaKisen</a> (not online often)</p>
+				<br>
+				<p><a href="index.php#system-administration" class="links">Return to homepage.</a></p>
+			</font>
+			</div>
+		</section>
+		<div class="section-line opactiyHalf"></div>
+		<section class="content-section" id="content-footer">
+			<div class="footer opactiyHalf" id="footer">
+				<font face="Lato" color="black">
+					<p>© Vilhelm Prytz <?php echo date("Y"); ?> - Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
+					<br>
+					<br><a href="https://twitter.com/VilhelmPrytz" class="links2" id="twitter">Twitter</a>
+					<br><a href="https://github.com/MrKaKisen" class="links2" id="github">GitHub</a>
+					<br>Discord - MrKaKisen#8523
+					<br><a href="mailto:contact@mrkakisen.net" class="links2" id="email">contact(at)mrkakisen.net</a></p>
+				</font>
+			</div>
+			<div class="footer opactiyHalf" id="footerRight">
+				<font face="Lato" color="black">
+					<p>Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
+					<br><a href="https://status.mrkakisen.net" class="links2">Server Status Page</a></p>
+				</font>
+			</div>
+		</section>
 	</div>
 </body>
 </html>
