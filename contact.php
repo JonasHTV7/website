@@ -24,36 +24,27 @@
 	<div class="content">
 		<section class="content-section" id="content-welcome">
 			<div class="welcome-about" id="introduction">
-			<font face="Lato">
 				<h1>Contact</h1>
-				<p>There are several ways of getting in touch with me, 
-				<br>whenever you would like to have a quote, or just chat, 
+				<p>There are several ways of getting in touch with me, <br>whenever you would like to have a quote, or just chat, 
 				<br>feel free to contact me in any of the ways listed below!</p>
-				<p>Email - <a href="mailto:contact@mrkakisen.net" class="links">contact(at)mrkakisen.net</a>
+				<p>Email - <a href="mailto:contact@mrkakisen.net" class="link">contact(at)mrkakisen.net</a>
 				<br>Discord - MrKaKisen#8523
-				<br>Skype - <a href="skype:mrkakisen?add" class="links">MrKaKisen</a> (not online often)</p>
-				<br>
-				<p><a href="index.php#system-administration" class="links">Return to homepage.</a></p>
-			</font>
+				<br>Skype - <a href="skype:mrkakisen?add" class="link">MrKaKisen</a> (not online often)</p><br>
+				<p><a href="index.php#system-administration" class="link">Return to homepage.</a></p>
 			</div>
 		</section>
 		<div class="section-line opactiyHalf"></div>
 		<section class="content-section" id="content-footer">
 			<div class="footer opactiyHalf" id="footer">
-				<font face="Lato" color="black">
-					<p>© Vilhelm Prytz <?php echo date("Y"); ?> - Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
-					<br>
-					<br><a href="https://twitter.com/VilhelmPrytz" class="links2" id="twitter">Twitter</a>
-					<br><a href="https://github.com/MrKaKisen" class="links2" id="github">GitHub</a>
+					<p>© Vilhelm Prytz <?php echo date("Y"); ?> - Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.<br>
+					<br><a href="https://twitter.com/VilhelmPrytz" class="link2" id="twitter">Twitter</a>
+					<br><a href="https://github.com/MrKaKisen" class="link2" id="github">GitHub</a>
 					<br>Discord - MrKaKisen#8523
-					<br><a href="mailto:contact@mrkakisen.net" class="links2" id="email">contact(at)mrkakisen.net</a></p>
-				</font>
+					<br><a href="mailto:contact@mrkakisen.net" class="link2" id="email">contact(at)mrkakisen.net</a></p>
 			</div>
 			<div class="footer opactiyHalf" id="footerRight">
-				<font face="Lato" color="black">
-					<p>Images by me under <a href="https://plentifulphotos.se/" class="links2">PlentifulPhotos</a>.
-					<br><a href="https://status.mrkakisen.net" class="links2">Server Status Page</a></p>
-				</font>
+				<p>Images by me under <a href="https://plentifulphotos.se/" class="link2">PlentifulPhotos</a>.
+				<br><a href="https://status.mrkakisen.net" class="link2">Server Status Page</a></p>
 			</div>
 		</section>
 	</div>
