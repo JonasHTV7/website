@@ -22,8 +22,8 @@
 		<div class="bigImgPusher"></div>
 	</div>
 	<div class="content">
-		<section class="content-section" id="content-welcome">
-			<div class="project-info" id="introduction">
+		<section class="content-section" id="content-projects">
+			<div class="projects info" id="introduction">
 				<h1>Projects</h1>
 				<p>Here are a list of some of the projects that I've been working on / currently working on.</p>
     			<p><a href="https://mrkakisen.se/" class="link">Return to homepage.</a></p>
