@@ -1,15 +1,44 @@
 /* Mobile CSS for MrKaKisen.se
 Copyright Vilhelm Prytz 2017
-Version: 1.3 */
-
-.opactiyHalf {
-  width: 0;
-  height: 0;
-  opacity: 0;
+Version: 1.4 */
+.bigImg,
+.bigImgPusher {
+  min-width: 320px;
+  min-height: 64px;
 }
-
-.invisible {
-  width: 0;
-  height: 0;
-  opacity: 0;
+/* CONTENT */
+.content-section {
+  width: 90%;
+  margin: 0 5%;
+}
+h1 {
+  font-size: 50px;
+}
+p {
+  font-size: 24px;
+}
+.welcome-about {
+  width: 90%;
+  min-width: 0;
+  margin: 0;
+}
+.project-info{
+  width: 90%;
+  min-width: 0;
+  margin: 0;
+}
+.services {
+  width: 90%;
+  min-width: 0;
+  margin: 0;
+}
+.projects {
+  width: 90%;
+  min-width: 0;
+  margin: 0;
+}
+/* FOOTER */
+.footer {
+  width: 90%;
+  margin: 0;
 }
